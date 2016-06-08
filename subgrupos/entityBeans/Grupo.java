@@ -1,5 +1,6 @@
 package entityBeans;
 
 public class Grupo {
-	ArrayList<String> bandas = new ArrayList<String> ();
+	ArrayList<Int> G = new ArrayList<Int> ();
+	ArrayList<Int> H = new ArrayList<Int> ();
 }
